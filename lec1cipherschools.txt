@@ -1,0 +1,9 @@
+1. Create a parent directory name "MERN".
+
+2. Create a folder inside this directory named "GIT"
+
+3. Open this folder in the terminal.
+
+4. Traverse to the this folder using cd command.
+
+5. To initialize this folder, use git init command.
